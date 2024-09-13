@@ -1,0 +1,22 @@
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+user.name=ifboelhasrin
+user.email=irfan.fboelhasrin@gmail.com
+safe.directory=C:/Users/irfan/Box/1 - FCS B - COMP SCI 7211/B1 - T2/Topic-2-Repo
+safe.directory=C:/Users/irfan/Box/1 - FCS B - COMP SCI 7211/comp-sci-7211
+safe.directory=C:/Users/irfan/Box/1 - FCS B - COMP SCI 7211/comp-sci-7211
+
+safe.directory=C:/Users/irfan/Box/1 - FCS B - COMP SCI 7211/comp-sci-7211
+safe.directory=C:/Users/irfan/Box/1 - FCS B - COMP SCI 7211/comp-sci-7211/git-practice-01
+safe.directory=C:/Users/irfan/Box/1 - FCS B - COMP SCI 7211/comp-sci-7211/git-practice-02
+safe.directory=C:/Users/irfan/Box/1 - FCS B - COMP SCI 7211/comp-sci-7211/question16/git-practice-02
+safe.directory=C:/Users/irfan/Box/1 - FCS B - COMP SCI 7211/git-practice-02
+safe.directory=C:/Users/irfan/Box/1 - FCS B - COMP SCI 7211/comp-sci-7211/git-practice-03
+safe.directory=C:/Users/irfan/Box/1 - FCS B - COMP SCI 7211/git-practice-03
+safe.directory=C:/Users/irfan/Box/1 - FCS B - COMP SCI 7211/comp-sci-7211/git-practice-03
+safe.directory=C:/Users/irfan/Box/1 - FCS B - COMP SCI 7211/git-practice-04
+safe.directory=C:/Users/irfan/Box/1 - FCS B - COMP SCI 7211/section-test/section-test
+safe.directory=C:/Users/irfan/Box/2 - Deep Learning Fundamentals/Assignment 1
+credential.helperselector.selected=manager
